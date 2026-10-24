@@ -1,22 +1,22 @@
 [
   {
     "name": "txt",
-    "path": "C:/Users/vilme/Desktop/Web.txt/",
+    "path": "C:/Users/vilme/Desktop/Web.txt",
     "icon": ""
   },
   {
     "name": "empty",
-    "path": "C:/Users/vilme/Desktop/Temp.txt/",
+    "path": "C:/Users/vilme/Desktop/Temp.txt",
     "icon": ""
   },
   {
     "name": "empty",
-    "path": "C:/Users/vilme/Desktop/NewFile.txt/",
+    "path": "C:/Users/vilme/Desktop/NewFile.txt",
     "icon": ""
   },
   {
     "name": "empty",
-    "path": "C:/Users/vilme/Desktop/AnotherFile.txt/",
+    "path": "C:/Users/vilme/Desktop/AnotherFile.txt",
     "icon": ""
   }
 ]
