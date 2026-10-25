@@ -2,16 +2,16 @@
   {
     "name": "txt",
     "path": "C:/Users/vilme/Desktop/Web.txt",
-    "icon": ""
+    "icon": "C:/Users/vilme/Desktop/Stream Deck/phasmo.png/"
   },
   {
     "name": "empty",
-    "path": "C:/Users/vilme/Desktop/Temp.txt",
-    "icon": ""
+    "path": "C:/Users/vilme/Desktop",
+    "icon": "C:/Users/vilme/Downloads/Screenshot1.png/"
   },
   {
     "name": "empty",
-    "path": "C:/Users/vilme/Desktop/NewFile.txt",
+    "path": "C:/Users/vilme/Desktop/",
     "icon": ""
   },
   {
