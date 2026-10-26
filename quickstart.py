@@ -12,6 +12,9 @@ if getattr(sys, "frozen", False):
 else:
     directory = Path(__file__).parent
 
+if not os.path.exists(directory / "config.json"):
+    raise FileNotFoundError("config.json not found")
+
 with open(directory / "config.json","r") as f:
     config = json.load(f)
 
